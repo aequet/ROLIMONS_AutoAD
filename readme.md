@@ -7,6 +7,9 @@ Buying Paon Trade Bot will give you access to this bot. (PAON trade bot is not f
 
 **INDEX.JS** Is obfuscated with a type of obfuscation. That is why there is alot of japanese emojis!
 
+
+*INSTRUCTIONS* :
+
 FIRST STEP, you have to be whitelisted to Aequet Bots Server. Second step, fork this repl : https://replit.com/@aequet2604/PAON-Value-Embed-Searcher-1?v=1 THEN,
 
 if youre on replit : Go to the Lock icon to your left of your screen (https://ibb.co/93fCGqs) Then make three new secret (https://ibb.co/ZWPNMBg) one for cookie (https://ibb.co/nwrz0cH), one for token, and one for RoliVerification. Then type npm install in SHELL, wait a bit and then when its finished type node index. And youre done!
