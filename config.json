@@ -2,7 +2,9 @@
   "notif_channel": "913087092203077683",
   "discord_id": "587698762470916096",
   "player_id": 687018056, 
-  "offer_item_ids": [ 66330144, 243854211, 19398258, 7592037079 ],
+  "offer_item_ids": [ 583721561 ],
   "request_item_ids": [], 
-  "request_tags" : [ "upgrade" ] 
+  "request_tags" : [ "any", "demand", "downgrade" ],
+  "auto_offer_ids": true,
+   "auto_max_offer_items": 2
 }
